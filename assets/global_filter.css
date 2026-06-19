@@ -1,0 +1,67 @@
+.global-filter-dropdown .Select-control {
+  background: #2a2a2d !important;
+  border: 1px solid #54545a !important;
+  border-radius: 16px !important;
+  min-height: 56px !important;
+  box-shadow: none !important;
+}
+
+.global-filter-dropdown .Select-placeholder,
+.global-filter-dropdown .Select-value-label,
+.global-filter-dropdown .Select-input > input {
+  color: #f4f4f5 !important;
+}
+
+.global-filter-dropdown .Select-placeholder {
+  opacity: 0.75;
+}
+
+.global-filter-dropdown .Select-arrow-zone,
+.global-filter-dropdown .Select-clear-zone {
+  color: #f4f4f5 !important;
+}
+
+.global-filter-dropdown .Select-menu-outer {
+  background: #1f1f25 !important;
+  border: 1px solid #54545a !important;
+  border-radius: 14px !important;
+  margin-top: 6px !important;
+}
+
+.global-filter-dropdown .Select-option {
+  background: #1f1f25 !important;
+  color: #f4f4f5 !important;
+}
+
+.global-filter-dropdown .Select-option.is-focused {
+  background: #2c2c34 !important;
+  color: #ffffff !important;
+}
+
+.global-filter-dropdown .Select-option.is-selected {
+  background: #3a3a44 !important;
+  color: #ffffff !important;
+}
+
+.home-sidebar-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #54545a #16161c;
+}
+
+.home-sidebar-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.home-sidebar-scroll::-webkit-scrollbar-track {
+  background: #16161c;
+  border-radius: 999px;
+}
+
+.home-sidebar-scroll::-webkit-scrollbar-thumb {
+  background: #54545a;
+  border-radius: 999px;
+}
+
+.home-sidebar-scroll::-webkit-scrollbar-thumb:hover {
+  background: #6a6a73;
+}
