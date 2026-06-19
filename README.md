@@ -1,2 +1,2 @@
-# F1Dashboard
-Post-Grad Software Group Project
+# F1 Analytical Dashboard
+Interactive data analytics dashboard built with Python, Dash, and Plotly for exploring Formula 1 race data. Implements multi-dimensional filtering across drivers, teams, and race events; comparative analysis of qualifying vs. race performance; lap-time trend visualization; and pit stop strategy metrics (frequency, timing, and outcome impact). Built with modular callback-driven architecture for real-time UI updates.
